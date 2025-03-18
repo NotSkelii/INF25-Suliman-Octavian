@@ -1,0 +1,57 @@
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\bin\Debug\net9.0\appsettings.json
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\bin\Debug\net9.0\DemoApp.staticwebassets.endpoints.json
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\bin\Debug\net9.0\DemoApp.exe
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\bin\Debug\net9.0\DemoApp.deps.json
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\bin\Debug\net9.0\DemoApp.runtimeconfig.json
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\bin\Debug\net9.0\DemoApp.dll
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\bin\Debug\net9.0\DemoApp.pdb
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfo.cs
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\DemoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\scopedcss\bundle\DemoApp.styles.css
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\staticwebassets\msbuild.DemoApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\staticwebassets\msbuild.DemoApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\staticwebassets\msbuild.build.DemoApp.props
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DemoApp.props
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DemoApp.props
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\DemoApp.dll
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\refint\DemoApp.dll
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\DemoApp.pdb
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\DemoApp.genruntimeconfig.cache
+C:\Users\skeli\Downloads\TW25L-L04\TW25L-L04\DemoApp\obj\Debug\net9.0\ref\DemoApp.dll
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\bin\Debug\net9.0\appsettings.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\bin\Debug\net9.0\DemoApp.staticwebassets.endpoints.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\bin\Debug\net9.0\DemoApp.exe
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\bin\Debug\net9.0\DemoApp.deps.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\bin\Debug\net9.0\DemoApp.runtimeconfig.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\bin\Debug\net9.0\DemoApp.dll
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\bin\Debug\net9.0\DemoApp.pdb
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfo.cs
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.sourcelink.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\scopedcss\bundle\DemoApp.styles.css
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\staticwebassets\msbuild.DemoApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\staticwebassets\msbuild.DemoApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\staticwebassets\msbuild.build.DemoApp.props
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DemoApp.props
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DemoApp.props
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.dll
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\refint\DemoApp.dll
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.pdb
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.genruntimeconfig.cache
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\ref\DemoApp.dll
