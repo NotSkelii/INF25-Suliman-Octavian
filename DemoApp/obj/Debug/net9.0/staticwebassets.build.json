@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "pCVEuAy//ksoUoQpv30xXiAx6qXPax6rVKTYPg73U34=",
+  "Source": "DemoApp",
+  "BasePath": "_content/DemoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DemoApp\\wwwroot",
+      "Source": "DemoApp",
+      "ContentRoot": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\wwwroot\\",
+      "BasePath": "_content/DemoApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\obj\\Debug\\net9.0\\compressed\\krso2ksqor-uuu91yem7a.gz",
+      "SourceId": "DemoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DemoApp",
+      "RelativePath": "index#[.{fingerprint=uuu91yem7a}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gvn6uc4qww",
+      "Integrity": "pPPbW9M4EtCVtEVgZLseBFb8dmChG+6e6SVk8qVpeTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\wwwroot\\index.html",
+      "SourceId": "DemoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\wwwroot\\",
+      "BasePath": "_content/DemoApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uuu91yem7a",
+      "Integrity": "ds2VP0g14ps2ff815ISr6HoInadAnL2zqsVUtryY1Dk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\obj\\Debug\\net9.0\\compressed\\krso2ksqor-uuu91yem7a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001345895020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "742"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pPPbW9M4EtCVtEVgZLseBFb8dmChG+6e6SVk8qVpeTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 15:26:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ds2VP0g14ps2ff815ISr6HoInadAnL2zqsVUtryY1Dk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ds2VP0g14ps2ff815ISr6HoInadAnL2zqsVUtryY1Dk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ds2VP0g14ps2ff815ISr6HoInadAnL2zqsVUtryY1Dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 15:26:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ds2VP0g14ps2ff815ISr6HoInadAnL2zqsVUtryY1Dk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\obj\\Debug\\net9.0\\compressed\\krso2ksqor-uuu91yem7a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pPPbW9M4EtCVtEVgZLseBFb8dmChG+6e6SVk8qVpeTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 15:26:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pPPbW9M4EtCVtEVgZLseBFb8dmChG+6e6SVk8qVpeTY="
+        }
+      ]
+    },
+    {
+      "Route": "index.uuu91yem7a.html",
+      "AssetFile": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\obj\\Debug\\net9.0\\compressed\\krso2ksqor-uuu91yem7a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001345895020"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "742"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pPPbW9M4EtCVtEVgZLseBFb8dmChG+6e6SVk8qVpeTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 15:26:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ds2VP0g14ps2ff815ISr6HoInadAnL2zqsVUtryY1Dk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uuu91yem7a"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ds2VP0g14ps2ff815ISr6HoInadAnL2zqsVUtryY1Dk="
+        }
+      ]
+    },
+    {
+      "Route": "index.uuu91yem7a.html",
+      "AssetFile": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ds2VP0g14ps2ff815ISr6HoInadAnL2zqsVUtryY1Dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 15:26:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uuu91yem7a"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ds2VP0g14ps2ff815ISr6HoInadAnL2zqsVUtryY1Dk="
+        }
+      ]
+    },
+    {
+      "Route": "index.uuu91yem7a.html.gz",
+      "AssetFile": "C:\\Users\\skeli\\OneDrive\\Desktop\\Facultate\\Year 2\\Semestrul 2\\Tehnologii Web - WT\\INF25-Suliman-Octavian\\DemoApp\\obj\\Debug\\net9.0\\compressed\\krso2ksqor-uuu91yem7a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pPPbW9M4EtCVtEVgZLseBFb8dmChG+6e6SVk8qVpeTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 15:26:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uuu91yem7a"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pPPbW9M4EtCVtEVgZLseBFb8dmChG+6e6SVk8qVpeTY="
+        }
+      ]
+    }
+  ]
+}

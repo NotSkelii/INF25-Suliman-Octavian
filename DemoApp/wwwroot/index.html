@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lab4</title>
+  </head>
+  <body>
+    <!-- 
+    For a register page:
+        -nume
+        -prenume
+        -email
+        -telefon
+        -data nasterii
+        -dropdown an studii
+        -parola
+        -confirmare parola
+    -->
+    <h1>Register</h1>
+    <form action="/register" method="post">
+      <label for="name">Nume</label>
+      <input type="text" name="nume" id="name" />
+
+      <div>
+        <label for="prenume">Prenume</label>
+        <input type="text" name="prenume" id="prenume" />
+      </div>
+
+      <div>
+        <label for="email">Email</label>
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="ceva@gmail.com"
+        />
+      </div>
+
+      <div>
+        <label for="phoneNumber">Telefon</label>
+        <input
+          type="tel"
+          pattern="[0-9]{7}"
+          name="phoneNumber"
+          id="phoneNumber"
+        />
+      </div>
+
+      <div>
+        <label for="password">Parola</label>
+        <input type="password" name="password" id="password" />
+      </div>
+
+      <div>
+        <label for="birthDate">Data nasterii</label>
+        <input type="date" name="birthDate" id="birthDate" />
+      </div>
+
+      <div>
+        <label for="anStudii">An Studii</label>
+        <select name="anStudii" id="anStudii">
+          <option value="1">Anul 1</option>
+          <option value="2" selected>Anul 2</option>
+          <option value="3">Anul 3</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="conditii">Termeni si Conditii</label>
+        <input type="checkbox" name="conditii" id="conditii" required />
+      </div>
+
+      <div>
+        <label for="security">A number: 1 + 1 =</label>
+        <input type="number" min="0" max="10" name="security" id="security" />
+      </div>
+
+      <div>
+        <label for="referal">Referal</label>
+        <input
+          type="text"
+          name="referal"
+          value="ASDUNASU"
+          readonly
+          id="referal"
+        />
+      </div>
+
+      <div>
+        <input type="reset" value="Reset" />
+        <input type="submit" value="Register" />
+      </div>
+    </form>
+
+    <!-- 
+    For a food order menu  
+  -->
+
+    <form action="/register">
+      <h1>Order</h1>
+
+      <label for="ingredients">Ingrediente</label>
+      <select name="ingredients" id="ingredients" multiple>
+        <option value="1">Banane</option>
+        <option value="2">Capsuni</option>
+        <option value="3">Nutella</option>
+      </select>
+
+      <input type="radio" name="size" value="small" />Small
+      <input type="radio" name="size" value="medium" />Medium
+
+      <div>
+        <input type="reset" value="Reset" />
+        <input type="submit" value="Submit" />
+      </div>
+    </form>
+  </body>
+</html>
