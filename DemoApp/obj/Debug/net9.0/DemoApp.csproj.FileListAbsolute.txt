@@ -55,3 +55,5 @@ C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT
 C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.pdb
 C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\DemoApp.genruntimeconfig.cache
 C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\ref\DemoApp.dll
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\bin\Debug\net9.0\DemoApp.staticwebassets.runtime.json
+C:\Users\skeli\OneDrive\Desktop\Facultate\Year 2\Semestrul 2\Tehnologii Web - WT\INF25-Suliman-Octavian\DemoApp\obj\Debug\net9.0\compressed\krso2ksqor-uuu91yem7a.gz

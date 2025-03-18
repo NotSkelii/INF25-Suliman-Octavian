@@ -18,7 +18,7 @@
         -confirmare parola
     -->
     <h1>Register</h1>
-    <form>
+    <form action="/register" method="post">
       <label for="name">Nume</label>
       <input type="text" name="nume" id="name" />
 
@@ -90,6 +90,29 @@
       <div>
         <input type="reset" value="Reset" />
         <input type="submit" value="Register" />
+      </div>
+    </form>
+
+    <!-- 
+    For a food order menu  
+  -->
+
+    <form action="/register">
+      <h1>Order</h1>
+
+      <label for="ingredients">Ingrediente</label>
+      <select name="ingredients" id="ingredients" multiple>
+        <option value="1">Banane</option>
+        <option value="2">Capsuni</option>
+        <option value="3">Nutella</option>
+      </select>
+
+      <input type="radio" name="size" value="small" />Small
+      <input type="radio" name="size" value="medium" />Medium
+
+      <div>
+        <input type="reset" value="Reset" />
+        <input type="submit" value="Submit" />
       </div>
     </form>
   </body>
