@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="script.js" defer></script>
+  </head>
+  <!-- TO-DO
+    NEW PASSWORD PAGE
+    Content:
+    -First password field
+    -Password confirmation field
+    -Set Password button
+    
+    -need to confirm that the passwords match to access the button, 
+    -otherwise give a warning to the user-->
+  <body style="text-align: center">
+    <div>
+      <label for="password">New Password</label>
+      <input type="password" id="password" placeholder="Enter new password" />
+    </div>
+    <div>
+      <label for="confirmPassword">Confirm Password</label>
+      <input
+        type="password"
+        id="confirmPassword"
+        placeholder="Confirm password"
+      />
+    </div>
+    <div>
+      <span style="color: red" id="ErrorMessage" hidden>Warning Message</span>
+    </div>
+    <div>
+      <button id="setPasswordButton" disabled>Set Password</button>
+    </div>
+    <div>
+      <span id="SuccessMessage" hidden style="color: green"
+        >Passwords match!</span
+      >
+    </div>
+  </body>
+</html>
